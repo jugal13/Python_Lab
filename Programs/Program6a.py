@@ -4,8 +4,7 @@ while True:
 	n=input().split()
 	if n[-1]=="quit":
 		n.remove("quit")
-		if li:
-			li.append(n)
+		li.append(n)
 		break
 	else:
 		li.append(n)

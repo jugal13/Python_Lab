@@ -1,6 +1,8 @@
 def _abecedarian(word):
 	test=list(word)
-	if test.sort()==test:
+	test.sort()
+	test ="".join(test)
+	if test==word:
 		return True
 	return False
 word=input("Enter a word: ")
