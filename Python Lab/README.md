@@ -54,7 +54,7 @@
     * b) [Program to Calculate Area and Circumference of circle with negative radius being thrown as exception](Programs/Program6b.py)
 
 7.
-    * a) [Create a package called Sample to implement stack and show it's use](https://github.com/jugalw13/Python_Lab/tree/master/Python%20Lab/Programs/Program7a)
+    * a) [Create a package called Sample to implement stack and show it's use](Programs/Program7a)
     
     * b) [Program to check for marks eligibility using user defined exception MarksNotElligible](Programs/Program7b.py)
 
@@ -73,7 +73,7 @@
     * b) [Program to store and print student details using classes and check count of students as well as count of students who have taken python](Programs/Program9b.py)
 
 10.
-    * a) [Create a package Mystring to countvowels in a string and check if a string is palindrome](https://github.com/jugalw13/Python_Lab/tree/master/Python%20Lab/Programs/Program10a)
+    * a) [Create a package Mystring to countvowels in a string and check if a string is palindrome](Programs/Program10a)
 
     * b) [Program to demostrate TypeError and IndexError](Programs/Program10b.py)
 
